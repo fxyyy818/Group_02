@@ -1,0 +1,24 @@
+# Android / Gradle output
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.apk
+*.aab
+*.apks
+.cxx/
+.externalNativeBuild/
+captures/
+# Local IDE settings
+.idea/
+*.iml
+# OS and local secrets
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+keystore.properties
+# Keep gradle/wrapper/gradle-wrapper.jar tracked.
